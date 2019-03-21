@@ -1,11 +1,14 @@
 # 斯坦福大学自然语言处理入门课
+
 授课教师：Dan Jurafsky and Chris Manning
+
 课程链接：https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ&disable_polymer=true
 
 ## 先修知识
 - 数学：需要统计基础，尤其是条件概率与贝叶斯公式；基本不需要微积分和线性代数
 - 机器学习：最好有相关经验，了解特征构建、训练/验证集划分、常见算法(朴素贝叶斯等)
 - 编程：不需要具体会写一种编程语言，但需要能读懂伪代码
+- 其他知识：最好有一定的语言学基础
 
 ## 课程目录
 1. 文本处理基础
