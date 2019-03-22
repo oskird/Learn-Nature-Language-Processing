@@ -4,6 +4,8 @@
 
 课程链接：https://www.youtube.com/playlist?list=PLoROMvodv4rOFZnDyrlW3-nI7tMLtmiJZ&disable_polymer=true
 
+slides：https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html
+
 ## 先修知识
 - 数学：需要统计基础，尤其是条件概率与贝叶斯公式；基本不需要微积分和线性代数
 - 机器学习：最好有相关经验，了解特征构建、训练/验证集划分、常见算法(朴素贝叶斯等)
@@ -17,10 +19,10 @@
 4. 拼写纠错
 5. 文本分类与朴素贝叶斯
 6. 情感分析
-7. 最大熵模型与判别估计
+7. 最大熵模型与判别模型(1)
 8. 信息提取和命名实体识别
 9. 关系提取
-10. 最大熵模型与判别估计(2)
+10. 最大熵模型与判别模型(2)
 11. 词性标注
 12. 统计自然语言解析
 13. 上下文无关文法CFGs与概率上下文无关文法PCFGs
