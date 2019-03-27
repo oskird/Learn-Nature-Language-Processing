@@ -6,6 +6,8 @@
 
 slides：https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html
 
+教材下载链接：https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf
+
 ## 概述
 课程包括了一些自然语言处理中的常见任务和实习执行时的注意事项。所讲的内容比较基础，适合入门。
 
